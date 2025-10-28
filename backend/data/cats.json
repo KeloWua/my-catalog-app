@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Gato Persa",
+    "description": "Un gato elegante y tranquilo.",
+    "image": "https://placekittens.com/200/200"
+  },
+  {
+    "id": 2,
+    "name": "Gato Siamés",
+    "description": "Curioso y muy activo.",
+    "image": "https://placekittens.com/201/200"
+  },
+  {
+    "id": 3,
+    "name": "Gato Maine Coon",
+    "description": "Grande y peludo, muy amigable.",
+    "image": "https://placekittens.com/202/200"
+  },
+  {
+    "id": 1761657755540,
+    "name": "JaKo",
+    "description": "El Kato",
+    "image": "https://placekittens.com/250/200"
+  },
+  {
+    "id": 1761658049590,
+    "name": "Michael",
+    "description": "Jackson el Gatito\n",
+    "image": "https://placekittens.com/230/200"
+  }
+]

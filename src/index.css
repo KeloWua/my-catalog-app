@@ -126,11 +126,35 @@ footer {
     color: #555;
 }
 
-.button{
+.button {
     margin-top: 1rem;
     display: inline-block;
     padding: 0.5rem 1rem;
     background: #0077cc;
     color: #fff;
     border-radius: 4px;
+}
+
+.button:hover {
+    background: #005fa3;
+}
+
+/* clase base de todos los NavLink */
+.navlink {
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: normal;
+    margin-right: 1rem;
+    transition: color 0.2s, font-weight 0.2s;
+}
+
+.navlink:hover {
+    color: #0056b3;
+}
+
+/* clase cuando está activo */
+.navlink.active {
+    font-weight: bold;
+    color: #ff6600;
+    /* ejemplo de color distinto */
 }
